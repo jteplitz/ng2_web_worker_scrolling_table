@@ -1,0 +1,35 @@
+table {
+  width: 756px;
+}
+
+table thead {
+  display: block;
+}
+
+table thead th {
+  padding: 30px;
+}
+
+table td {
+  padding: 30px;
+  margin: 0;
+}
+
+tbody {
+  display: block;
+  height: 500px;
+  overflow: auto;
+  width: 100%;
+}
+
+html>body thead.fixedHeader tr{
+  display: block;
+}
+
+thead.fixedHeader tr {
+  position: relative;
+}
+
+.header td, .header th {
+  background-color: green;
+}

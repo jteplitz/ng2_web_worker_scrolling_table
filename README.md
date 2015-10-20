@@ -1,5 +1,5 @@
-# Ng2 WebWorker Todo Demo
-This is a simple demo of building a Todo App with WebWorker support in Angular 2.
+# Ng2 WebWorker Scrolling Table Demo
+This is a demo of using custom elements with WebWorkers in Angular 2.
 
 # Run Demo
 First clone the repo and then run `npm run tsc`. This will compile the TypeScript files, and watch for changes.
